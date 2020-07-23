@@ -1,0 +1,38 @@
+
+# High Score Board Data
+level.Level1.json
+level.Level2.json
+level.Level3.json
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+
+# Maven
+target/
+pom.xml
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+
+
+# Eclipse
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+
+# Based Originall Upon .ignore support plugin (hsz.mobi)

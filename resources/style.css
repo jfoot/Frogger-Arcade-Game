@@ -1,0 +1,22 @@
+
+#musicButton, #backButton, #helpButton,#returnClick, #submitButton { 
+	-fx-background-color:purple;
+	-fx-content-display: top;
+	-fx-text-fill: white;
+	-fx-font-size:14;
+	-fx-font-family: 'Courier New';
+}
+
+
+
+.button {
+	-fx-background-color:black;
+	-fx-text-fill: purple;
+	-fx-font-size:36;
+	-fx-font-family: 'Courier New';
+	-fx-font-weight: bold;
+	-fx-border-color: white;
+	-fx-border-width: 3 3 3 3;
+}
+
+
